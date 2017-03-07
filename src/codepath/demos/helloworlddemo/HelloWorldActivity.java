@@ -18,5 +18,5 @@ public class HelloWorldActivity extends Activity {
 		getMenuInflater().inflate(R.menu.activity_hello_world, menu);
 		return true;
 	}
-//test
+//test2
 }
