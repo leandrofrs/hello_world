@@ -1,7 +1,7 @@
 pipeline {
   agent any
   stages {
-    stage('Bluid') {
+    stage('Build') {
       steps {
         sh 'echo test'
         sh 'echo "test 2"'
