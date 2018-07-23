@@ -24,7 +24,7 @@ pipeline {
   }
   post {
     always {
-      sh "Leandro, o Grande!"
+      sh '"Leandro, o Grande!"'
     }
   }
   environment {
