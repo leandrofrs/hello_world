@@ -26,6 +26,7 @@ pipeline {
     always {
       sh "Leandro, o Grande!"
     }
+  }
   environment {
     Name = 'Fred Flinstone'
   }
